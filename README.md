@@ -1,5 +1,4 @@
 # VFPGDScriptEditor Color
-
 <hr>
 
 ## Sample Image
@@ -7,9 +6,6 @@
 ![](sample.png)
 
 <hr>
-
-## Usage
-* ![](images/prop.gif) **LastErrorText:** Stores the possible error generated in the current sentence.
 
 ## Instructions
 
