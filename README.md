@@ -1,4 +1,4 @@
-# VFPGDScriptEditor Color
+### VFPGDScriptEditor Color
 <hr>
 
 ## Sample Image
