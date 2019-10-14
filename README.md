@@ -4,7 +4,7 @@
 
 ## Sample Image
 
-* ![](sample.png)
+![](sample.png)
 
 <hr>
 
