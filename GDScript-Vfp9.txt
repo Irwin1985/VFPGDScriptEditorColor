@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualFoxPro\9.0\Options]
+"EditorNormalColor"  ="RGB(204,206,211,31,37,49), NoAuto, NoAuto"
+"EditorCommentColor" ="RGB(125,129,137,31,37,49), NoAuto, NoAuto"
+"EditorKeywordColor" ="RGB(255,113,133,31,37,49), NoAuto, NoAuto"
+"EditorOperatorColor"="RGB(171,200,255,31,37,49), NoAuto, NoAuto"
+"EditorConstantColor"="RGB(85,175,249,31,37,49), NoAuto, NoAuto"
+"EditorStringColor"  ="RGB(255,236,160,31,37,49), NoAuto, NoAuto"
+"EditorVariableColor"="RGB(198,255,237,31,37,49), NoAuto, NoAuto"
+
+
+[HKEY_CURRENT_USER\Software\Microsoft\VisualFoxPro\9.0\Options\IDE]
+"ProgramFont"="Roboto Mono, 14, N, 1"
